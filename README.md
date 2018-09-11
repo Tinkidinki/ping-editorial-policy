@@ -1,0 +1,1 @@
+# ping-editorial-policy
