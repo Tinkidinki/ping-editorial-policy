@@ -25,6 +25,7 @@ In all cases where the naming of the person is in a positive context, the editor
 ### Serious Article
 + The author must provide the editor with reasonable evidence to believe the content of the article. The editor may require the author to file a complaint to an official body in case of a serious accusation. 
 + The editor is required to contact the accused (if not already contacted by the author) for a statement *before* the publication of the article, and publish whatever the accused says verbatim. 
++ Author cannot be anonymous (discuss)
 #### Person holding a position of responsibility
 Negligence and non performance of duty while holding a position of responsibility in college counts as public interest, and the person maybe named for this. For any misconduct not related to the said person's position of responsibility, please follow whatever is done for normal people.
 #### Normal person
