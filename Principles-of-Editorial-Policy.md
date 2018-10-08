@@ -21,6 +21,10 @@ Ping! will not publish anything about anyone that does not concern the public. D
 ## Diversity
 Ping! will be a platform for having your voice heard, irrespective of who you are. While Ping! itself is an open platform, not all people express their opinons as often or as easily as others, and the editors must put in effort to bring out opinions and pieces from people who are generally not heard because of language, societal or other barriers.
 
+## Accountability
+Ping! is an independent magazine, and therefore the editor is responsible for the content of the magazine, legally or otherwise. 
+
 ## Changes to the Editorial Policy
+Any change to the policy must follow the guiding principles, and the ethics code must be used for reference. 
 (to think) Editors have final say, but ex-editors should be consulted (and members of the Ping! team, for changes that affect them)
 
