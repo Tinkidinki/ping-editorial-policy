@@ -25,6 +25,6 @@ Ping! will be a platform for having your voice heard, irrespective of who you ar
 Ping! is an independent magazine, and therefore the editor is responsible for the content of the magazine, legally or otherwise. 
 
 ## Changes to the Editorial Policy
-Any change to the policy must follow the guiding principles, and the ethics code must be used for reference. 
+Any change to the policy must follow the guiding principles and ideally should be to enhance any of the above. The ethics code must be used for reference. 
 (to think) Editors have final say, but ex-editors should be consulted (and members of the Ping! team, for changes that affect them)
 
