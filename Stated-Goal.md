@@ -1,3 +1,5 @@
+## Vision (to review)
+
 Ping! is a young newsletter of a young institute. With being young, comes love, passion and a yearning for etching one’s name in the history books.
 
 With Ping!, we strive to give the community a voice. Not just a voice that is heard, but a voice that is listened to, understood and given its due consideration. Ping! wants to be the platform that says what everyone thinks, but no one says out loud.
