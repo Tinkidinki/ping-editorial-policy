@@ -5,7 +5,12 @@ After about a month, those who show demonstrated interest (writing a first draft
 
 ( To write roles under each)
 
-## Writers
-## Marketers
-## Designers
-## Illustrators
+### Writers
+### Marketers
+### Designers
+### Illustrators
+### Web administrators
+
+## Crediting
+The Ping! team will be credited both on the print issue, and on the website. The website credits will be updated after the release of every issue.
+
