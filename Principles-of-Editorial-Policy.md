@@ -2,8 +2,8 @@
 
 ## Correctness
 + Any information in Ping! will be accurate. Neither the format nor the speed by which one wants to publish is an excuse to forgo correctness of 
-any information that is present in an article. For example, an editorial in the April 2018 issue was titled '<professor> gets the sack' while 
-while the professor had not been sacked, but had left on his own accord. The title was changed to '<professor> leaves' although the first title
+any information that is present in an article. For example, an editorial in the April 2018 issue was titled '[professor] gets the sack' while 
+while the professor had not been sacked, but had left on his own accord. The title was changed to '[professor] leaves' although the first title
 sounded more appealing, and the correction caused delay in publication.
 
 ## Fairness
