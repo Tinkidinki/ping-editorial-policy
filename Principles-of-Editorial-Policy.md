@@ -11,8 +11,8 @@ sounded more appealing, and the correction caused delay in publication.
 Reportage will be as unbiased as possible. In the article 'Ragging or the Acceptable Sexual Harassment', the accused were not asked for a statement before the article, but were asked for one immediately after.
 
 ## Quality
-+ In case of perspectives or opinions, quality and coherence of arguments is the most important criteria for publication. Only in the rarest cases will 
-the editor If the editor feels little can 
++ In case of perspectives or opinions, quality and coherence of arguments is the most important criteria for publication. Only in the rarest cases will the editor not publish an article because of value judgement.
+If the editor feels little can 
 be done to improve quality of content, the article will not be published. However, if the quality of language or eloquence is the issue, the editor must try to work with the author to improve the article to the best of their ability.
 
 ## 
