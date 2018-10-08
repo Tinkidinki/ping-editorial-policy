@@ -7,7 +7,7 @@ while the professor had not been sacked, but had left on his own accord. The tit
 sounded more appealing, and the correction caused delay in publication.
 
 ## Fairness
-To adhere to the first principal, in cases where the source of information is people's memory, parties with opposing with opposing views will be consulted before publication. 
+To adhere to the first principal, in cases where the source of information is people's memory, parties with opposing views will be consulted before publication. 
 Reportage will be as unbiased as possible. In the article 'Ragging or the Acceptable Sexual Harassment', the accused were not asked for a statement before the article, but were asked for one immediately after.
 
 ## Quality
