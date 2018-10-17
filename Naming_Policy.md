@@ -41,7 +41,7 @@ none was given after waiting three-four days for a response.
 in the article (especially one that makes any section of the article or any accusation false), those must be edited into the article as and when they occur. The editor/ author/ staff writers may contact the relevent bodies to find out about the same. It might be useful to keep a note of articles with accusations, to follow up on the same.
 
 ## Redaction (When and how to remove names)
-+ In case any of the mentioned details about a person happened to be false, the names will be redacted. 
++ In case any of the mentioned details about a person happened to be false, the names will be redacted with an apology.
 + In case it is realised after publication that the naming policy has not been followed in principle, the names will be redacted with an apology.
 + In case it is realised after publication that the naming policy has not been followed implementation-wise, the names will be redacted with a note explaining this. The editor will wait for sufficient time/ send the article to relevant people for comments, and the article will be re-published with the changes.
 + In case anyone named in positive context requests for redaction of name, names will be redacted with a note.
