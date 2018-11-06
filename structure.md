@@ -3,10 +3,10 @@
 + Have a big meeting putting out all the topics. Motivate people to write.
 + Give everyone their articles and their deadlines.
 + Have weekly meetings with the following agenda:
-++ If your article is next week/ week after next, you come and discuss it
-++ Discuss/ debate issues
-++ Anyone in college is invited to come and share stories/ discuss ideas
-++ Specifically invite people to meetings if they're involved in discussions
+  + If your article is next week/ week after next, you come and discuss it
+  + Discuss/ debate issues
+  + Anyone in college is invited to come and share stories/ discuss ideas
+  + Specifically invite people to meetings if they're involved in discussions
 
 # Kinds of articles
 + Major (like water bill, dogs)
