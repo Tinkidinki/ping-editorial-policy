@@ -13,7 +13,7 @@
 + News reports on college
 + The current sections itself
 
-# Releases
+# Finishing an article
 + Enforce: everyone gets a two week period when they're supposed to write their article
 + Meet with the editors at least twice
 + Dedicated illustrator working with you
