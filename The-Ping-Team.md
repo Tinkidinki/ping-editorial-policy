@@ -51,5 +51,8 @@ Web Admin
 ### Web administrators
 
 ## Crediting
-The Ping! team will be credited both on the print issue, and on the website. The website credits will be updated after the release of every issue.
+The Ping! team will be credited both on the print issue, and on the website. 
 
+The website credits will be updated after the release of every issue.
+
+Team: Semester/Yearly teams tracked on website
