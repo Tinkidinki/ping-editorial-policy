@@ -39,7 +39,9 @@ Illustration
 - Collaborate closely with design
 - Illustrations for marketing
 
-Writers
+Web Admin
+- Updating website
+- Making changes when needed
 
 
 ### Writers
