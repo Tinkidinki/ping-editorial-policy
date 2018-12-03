@@ -25,7 +25,7 @@ Social Media and Marketing
 - Come up with marketing plans to popularize the magazine
 - (Heads) Get people to like and share posts
 
-Sponsorship
+Corporate Sponsorship
 - Contact companies for advertisement and funding
 - Negotiate and create MoUs for all deals
 - Collaborate closely with Finance
