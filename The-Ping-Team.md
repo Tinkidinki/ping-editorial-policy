@@ -5,6 +5,43 @@ After about a month, those who show demonstrated interest (writing a first draft
 
 ( To write roles under each)
 
+### Core
+
+Editor(s)-in-Chief
+- Ensure functioning of magazine
+- Write editorials
+- Edit: Grammar, and verify adherence to policy
+- Assign articles and hold meetings with all authors regularly
+- Suggest changes to articles
+- Collaborate with other magazines?
+
+Treasurer
+- Keep track of cash flowing in and out
+- Manage the bank account; approve all withdrawals
+
+Social Media and Marketing
+- Post to all social media
+- Respond to messages on the pages
+- Come up with marketing plans to popularize the magazine
+- (Heads) Get people to like and share posts
+
+Sponsorship
+- Contact companies for advertisement and funding
+- Negotiate and create MoUs for all deals
+- Collaborate closely with Finance
+
+Design (Magazine)
+- Design the magazine
+- Design posters, etc for marketing
+
+Illustration
+- Illustrations for the magazine
+- Collaborate closely with design
+- Illustrations for marketing
+
+Writers
+
+
 ### Writers
 ### Marketers
 ### Designers
