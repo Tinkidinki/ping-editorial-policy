@@ -1,33 +1,46 @@
-# Naming Policy
+# Introduction
+Ping! would like to be a platform for journalism that raises awareness and brings out change while
+ensuring that journalistic ethics are followed. One small but important aspect of this is naming individuals.
+In general, naming people is a violation of their privacy, and people must only be named if the public 
+interest in naming the person justifies the violation of the person's privacy.
+## Principles (To name or not to name)
+### Positive contexts
+This is quite straightforward and anyone may be named in a positive context (These include winning something, having done good work, etc.) Permission to name the person can be assumed if this is already public, and must be sought if not.
 
-## Introduction 
+### Non-positive contexts
 
-Ping! would like to be a platform for effective journalism and raising issues while not calling out people unethically.
+#### Serious Articles
+##### Persons holding positions of responsibility
+Negligence and non-performance of duty while holding a position of responsibility counts as public interest and people may be named for this. Truth here can be established by checking the research done and facts presented by the author, as well as any email threads.
 
-The editor is required to follow the following guidelines while making a decision whether to allow a name in an article or not.
+##### Acts that cause harm to others in society
++ A person may be named for this __only__ if by naming, the article has the potential to reduce said harm significantly (and is therefore of public interest). If not, the article will be published without the names. 
++ If the sole reason for naming is retribution, or for the victim to gain justice, the person should not be named. Ping! is not a justice-providing body, but one that spreads awareness to the extent necessary.
++ The editor must carefully consider the status quo, look for corrobarative evidence and talk with relevent people while considering the truth and the public interest of the article. 
 
-The key idea at any point is whether the public interest in naming the person justifies the violation of the person's privacy. The conflict between these two is discussed in many contexts as shown below.
+#### Satirical Articles
+Sections like Cynical Cindy, and Wise Wendy and other satirical pieces tend to mock and exaggerate situations, and hence no one should be named in any indexable way. People may be referred to by position/ nicknames/ initials/ fake names. (to finalise still)
 
-The editor must also respect the college policy on non-naming, a person may not be named during a DISCO trial, or an ARC trial. (Find out more)
+## Implementation (How to name)
+Once it has been established by the above that whatever has been stated about said 
+person is __true__  and naming a person in a non-positive context is of __public interest__, the following must be strictly followed:
 
-### Naming can be divided in three ways based on the context and connotation.
-+ Positive, Negative, Neutral
-+ Satirical or Serious
-+ Regular person, or person holding a postion of responsibility
++ The author cannot be anonymous (to check)
 
-## Positive
-In all cases where the naming of the person is in a positive context, the editor may assume permission to name the person. These include winning something, having done good work, etc. In case after publication the named person(only the named person) requests redaction for some reason, his/ her name will be redacted with a note.
++ The parts of the article relevent to those named must be sent to them before publication for their comments
+and their statements must be included with the article verbatim. All possible means will 
+be used to reach them and the article will be published without their statement only if 
+none was given after waiting three-four days for a response.
 
-## Negative
-(To think: College interest vs world interest)
-### Satire
-(To think)
-### Serious Article
-+ The author must provide the editor with reasonable evidence to believe the content of the article. The editor may require the author to file a complaint to an official body in case of a serious accusation. 
-+ The editor is required to contact the accused (if not already contacted by the author) for a statement *before* the publication of the article, and publish whatever the accused says verbatim. 
-+ Author cannot be anonymous (discuss)
-#### Person holding a position of responsibility
-Negligence and non performance of duty while holding a position of responsibility in college counts as public interest, and the person maybe named for this. For any misconduct not related to the said person's position of responsibility, please follow whatever is done for normal people.
-#### Normal person
-Anything that is a crime according to the Indian Penal Code that *also* harms other people is considered to be of public interest and a person maybe named for commiting such crime.
++ After the article has been published, if there are significant improvements to the status quo as mentioned 
+in the article (especially one that makes any section of the article or any accusation false), those must be edited into the article as and when they occur. The editor/ author/ staff writers may contact the relevent bodies to find out about the same. It might be useful to keep a note of articles with accusations, to follow up on the same.
+
+## Redaction (When and how to remove names)
++ In case any of the mentioned details about a person happened to be false, the names will be redacted with an apology.
++ In case it is realised after publication that the naming policy has not been followed in principle, the names will be redacted with an apology.
++ In case it is realised after publication that the naming policy has not been followed implementation-wise, the names will be redacted with a note explaining this. The editor will wait for sufficient time/ send the article to relevant people for comments, and the article will be re-published with the changes.
++ In case anyone named in positive context requests for redaction of name, names will be redacted with a note.
++ In case anyone named in a non-positive context requests for redaction of the names, even though the naming policy has been followed both principally and implementation-wise, the names will not be redacted. Note that it is important to follow the fourth clause of implementation strictly to ensure this non-redaction is ethical.
+
+
 
