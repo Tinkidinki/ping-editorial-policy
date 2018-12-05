@@ -26,5 +26,5 @@ Ping! is an independent magazine, and therefore the editor is responsible for th
 
 ## Changes to the Editorial Policy
 Any change to the policy must follow the guiding principles and ideally should be to enhance any of the above. The ethics code must be used for reference. 
-(to think) Editors have final say, but ex-editors should be consulted (and members of the Ping! team, for changes that affect them)
+(to think) Editors have final say, but ex-editors and members of the Ping! team should be consulted before any change. 
 
