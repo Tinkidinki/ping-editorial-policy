@@ -44,12 +44,6 @@ Web Admin
 - Making changes when needed
 
 
-### Writers
-### Marketers
-### Designers
-### Illustrators
-### Web administrators
-
 ## Crediting
 The Ping! team will be credited both on the print issue, and on the website. 
 
