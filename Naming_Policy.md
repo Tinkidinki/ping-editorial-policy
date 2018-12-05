@@ -19,7 +19,7 @@ Negligence and non-performance of duty while holding a position of responsibilit
 + The editor must carefully consider the status quo, look for corrobarative evidence and talk with relevent people while considering the truth and the public interest of the article. 
 
 #### Satirical Articles
-Sections like Cynical Cindy, and Wise Wendy and other satirical pieces tend to mock and exaggerate situations, and hence no one should be named in any indexable way. People may be referred to by position/ nicknames/ initials/ fake names.
+Sections like Cynical Cindy, and Wise Wendy and other satirical pieces tend to mock and exaggerate situations, and hence no one should be named in any indexable way. People may be referred to by position/ nicknames/ initials/ fake names. (to finalise still)
 
 ## Implementation (How to name)
 Once it has been established by the above that whatever has been stated about said 
@@ -27,12 +27,7 @@ person is __true__  and naming a person in a non-positive context is of __public
 
 + The author cannot be anonymous (to check)
 
-+ In case of accusations, the editor must ensure that the author has already contacted the
-the relevent committee in campus responsible for handling the situation and has received a 
-negative response, or the author has not received a response even after waiting a sufficient 
-amount of time. (how long?)
-
-+ The entire article must be sent to those named before publication for their comments
++ The parts of the article relevent to those named must be sent to them before publication for their comments
 and their statements must be included with the article verbatim. All possible means will 
 be used to reach them and the article will be published without their statement only if 
 none was given after waiting three-four days for a response.
