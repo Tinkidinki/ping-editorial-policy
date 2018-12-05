@@ -43,6 +43,7 @@ Web Admin
 - Updating website
 - Making changes when needed
 
+One person may be responsible for upto two of the above tasks, especially related ones. Each of these people (apart from treasurer) have a team working with them.
 
 ## Crediting
 The Ping! team will be credited both on the print issue, and on the website. 
